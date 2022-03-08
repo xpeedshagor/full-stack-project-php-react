@@ -1,0 +1,21 @@
+{
+    "name": "xpeed/awesomephp",
+    "type": "project", 
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "AL Emran",
+            "email": "83762623+alemran-xs@users.noreply.github.com"
+        }
+    ],
+    "autoload": { 
+        "psr-4": {
+          "AwesomePHP\\App\\": "app/" ,
+          "AwesomePHP\\Bootstrap\\": "bootstrap/" 
+        }
+      },
+      "require": {
+        "php": "^7.0|8.*"
+      },
+    "minimum-stability": "dev"
+}
