@@ -1,0 +1,3 @@
+extract method asssociate array theke index gula return kore variable akare 
+
+compact same as extract method it's send key and valuel
