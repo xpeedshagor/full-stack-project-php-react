@@ -8,7 +8,10 @@
             "email": "83762623+alemran-xs@users.noreply.github.com"
         }
     ],
-    "autoload": { 
+    "autoload": {
+        "files": [
+        "app/Utilities/global-functions.php"
+       ],
         "psr-4": {
           "AwesomePHP\\App\\": "app/" ,
           "AwesomePHP\\Bootstrap\\": "bootstrap/" 
